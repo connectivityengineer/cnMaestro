@@ -1,0 +1,14 @@
+{
+	"userParameters": {
+		"smVlanConfig": {
+			"ingressVID": 1
+		},
+		"vlanConfig": {
+			"managementVID": 1,
+			"providerVID": 1,
+			"vlanMembership": [
+				1
+			]
+		}
+	}
+}
