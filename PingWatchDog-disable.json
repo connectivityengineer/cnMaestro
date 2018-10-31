@@ -1,0 +1,10 @@
+{
+	"userParameters": {
+		"pingWatchDogConfig": {
+			"pingWdogEnable": 0,
+			"pingWdogIP": "1.1.1.1",
+			"pingWdogInterval": 300,
+			"pingWdogRbtCnt": 2
+		}
+	}
+}
